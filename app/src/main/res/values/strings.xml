@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Grain Master</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="camera_permission_needed">Storage permission needed</string>
+    <string name="grant">Grant</string>
+    <string name="enable">Enable</string>
+    <string name="status">Status</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+
+    <string-array name="business_type">
+        <item>Manufacturer</item>
+        <item>Trader</item>
+        <item>Importer/Exporter,Broker</item>
+        <item>Retailer</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="terms_condtion">The Right to Terminate</string>
+</resources>

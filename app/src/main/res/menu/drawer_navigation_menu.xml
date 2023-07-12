@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drawer_news"
+        android:title="News"
+        android:icon="@drawable/ic_baseline_newspaper_24"/>
+    <item
+        android:id="@+id/drawer_plans"
+        android:title="Plans"
+        android:icon="@drawable/ic_baseline_add_photo_alternate_24" />
+    <item
+        android:id="@+id/drawer_yellow_pages"
+        android:title="Yellow pages"
+        android:icon="@drawable/ic_baseline_insert_page_break_24"/>
+    <item
+        android:id="@+id/drawer_updates"
+        android:title="Updates"
+        android:icon="@drawable/ic_baseline_notifications_24"/>
+
+    <item
+        android:id="@+id/drawer_select_commodity"
+        android:title="Select Commodity"
+        android:icon="@drawable/ic_baseline_notifications_24"/>
+    <item
+        android:id="@+id/drawer_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/drawer_support"
+        android:icon="@drawable/baseline_support_agent_24"
+        android:title="Support" />
+
+    <item
+        android:id="@+id/drawer_terms"
+        android:icon="@drawable/ic_policy"
+        android:title="Terms &amp; Conditions" />
+
+    <item
+        android:id="@+id/drawer_share"
+        android:icon="@drawable/ic_share"
+        android:title="Share Us" />
+
+    <item
+        android:id="@+id/drawer_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout" />
+</menu>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dp_7"
+    android:padding="@dimen/dp_7"
+    android:orientation="vertical"
+    android:background="@drawable/border_editext">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_7"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_12"
+            android:background="@color/shimmer_background"
+            android:layout_weight="0.33"
+            android:layout_marginRight="@dimen/dp_17"
+            android:layout_marginLeft="@dimen/dp_17"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_12"
+            android:background="@color/shimmer_background"
+            android:layout_weight="0.33"
+            android:layout_marginRight="@dimen/dp_17"
+            android:layout_marginLeft="@dimen/dp_17"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_7"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_12"
+            android:background="@color/shimmer_background"
+            android:layout_weight="0.33"
+            android:layout_marginRight="@dimen/dp_17"
+            android:layout_marginLeft="@dimen/dp_17"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_12"
+            android:background="@color/shimmer_background"
+            android:layout_weight="0.33"
+            android:layout_marginRight="@dimen/dp_17"
+            android:layout_marginLeft="@dimen/dp_17"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_7"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_12"
+            android:background="@color/shimmer_background"
+            android:layout_weight="0.33"
+            android:layout_marginRight="@dimen/dp_17"
+            android:layout_marginLeft="@dimen/dp_17"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_12"
+            android:background="@color/shimmer_background"
+            android:layout_weight="0.33"
+            android:layout_marginRight="@dimen/dp_17"
+            android:layout_marginLeft="@dimen/dp_17"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_7"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_42"
+            android:background="@color/shimmer_background"
+            android:layout_weight="0.33"
+            android:layout_marginRight="@dimen/dp_17"
+            android:layout_marginLeft="@dimen/dp_17"
+            android:visibility="invisible"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_32"
+            android:background="@color/shimmer_background"
+            android:layout_weight="0.33"
+            android:layout_marginRight="@dimen/dp_27"
+            android:layout_marginLeft="@dimen/dp_27"/>
+
+    </LinearLayout>
+
+</LinearLayout>

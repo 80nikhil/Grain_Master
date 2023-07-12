@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GrainMaster" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/font_color</item>
+        <item name="colorOnPrimary">@color/lightcry</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/lightcry</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/lightcry</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/primary</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/light_black</item>
+        <item name="hintTextColor">@color/lightcry</item>
+    </style>
+
+    <style name="TextInputLayoutStyle1"
+        parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="errorEnabled">true</item>
+        <item name="hintTextColor">@color/primary</item>
+    </style>
+</resources>
